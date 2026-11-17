@@ -25,6 +25,7 @@
 - **ghoul型**: https://github.com/wwi195/pachinko-simulator-ghoul — ステータスバー型ヘッダー・
   状態遷移で画面ごと切り替えるインライン方式。`logic.js`のみ（calc.js相当は無し）。
   採用例: `pachinko-simulator-lycoris`（白ベース）・`pachinko-simulator-oumi5sp`（白+青系）・
-  `pachinko-simulator-boukyousei`（黒×赤、ST+保留型RUSH、日またぎ機能、実質/表示出玉表示など最新の実装パターンを多く含む）
+  `pachinko-simulator-boukyousei`（黒×赤、ST+保留型RUSH、日またぎ機能、実質/表示出玉表示など最新の実装パターンを多く含む）・
+  `pachinko-simulator-juoh`（白＋赤金、ST＋チャージ型LT）
 
 どちらを選ぶかの基準・配色パターン集・RUSH/LT構造カタログの詳細は `MACHINE-SPEC-TEMPLATE.md` を参照。
